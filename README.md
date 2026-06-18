@@ -38,39 +38,26 @@ O sistema foi desenvolvido inteiramente em **Python**, utilizando as seguintes b
 
 ## Como Executar o Projeto
 
-### Pré-requisitos
-Certifique-se de ter o Python 3.x instalado em sua máquina.
+Clique no Botão "Code" no repositório do github do projeto:
+<img width="1168" height="197" alt="image" src="https://github.com/user-attachments/assets/55e81353-33fe-48f9-a1b8-aa32546e8164" />
 
-### 1. Clonar o Repositório
+Selecione a opção "download zip"
 
-```bash
-git clone [https://github.com/brendolalves/Objeto-Educacional-Matematica.git](https://github.com/brendolalves/Objeto-Educacional-Matematica.git)
-cd Objeto-Educacional-Matematica
-````
+Extraia o arquivo zip em sua maquina, depois execute o arquivo app.exe
+<img width="1085" height="223" alt="Captura de tela 2026-06-18 095946" src="https://github.com/user-attachments/assets/d3add490-5786-4469-918d-e3b5f6371358" />
+
+Ao executar o arquivo, você receberá esse aviso sobre o arquivo ser sobre o windows defendendo seu computador, clique em mais informações e ele avisará que é devido a um forncedor desconhecido, clique em executar assim mesmo:
+<img width="658" height="612" alt="Captura de tela 2026-06-18 100022" src="https://github.com/user-attachments/assets/8f84f144-e864-43df-ad7f-12919f34e009" />
 
 
-**2\. Criar e Ativar Ambiente Virtual**
+Aplicativo em funcionamento:
+<img width="1452" height="908" alt="image" src="https://github.com/user-attachments/assets/1b315326-e163-49b9-bc5b-096111681eda" />
 
-```bash
-# No Windows:
-python -m venv venv
-.\venv\Scripts\activate
 
-# No Linux/MacOS:
-python3 -m venv venv
-source venv/bin/activate
-````
 
-**3\. Instalar as Dependências**
 
-```bash
- pip install customtkinter matplotlib numpy 
-````
-**4\. Executar o Aplicativo**
 
-```bash
-python main.py
-````
-**Licença**
 
-Este projeto é de caráter estritamente acadêmico e educacional, distribuído sob a licença MIT. Sinta-se livre para clonar, estudar e sugerir melhorias\!
+
+
+
